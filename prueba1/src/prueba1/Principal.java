@@ -7,6 +7,9 @@ public class Principal {
 		System.out.println("Hola mundo java-git");
 		System.out.println("Hola mundo java-git 2");
 		System.out.println("Hola mundo java-git 3");
+		System.out.println("Hola mundo java-git");
+		System.out.println("Hola mundo java-git Versión 2");
+		System.out.println("Hola mundo.Pruebas Git. Se añade Cambio1");
 
 	}
 
